@@ -1,0 +1,23 @@
+[
+  {"id":1,"title":"What is a database?","difficulty":"Easy","source":"Sample"},
+  {"id":2,"title":"Explain normalization.","difficulty":"Medium","source":"Sample"},
+  {"id":3,"title":"What is a primary key?","difficulty":"Easy","source":"Sample"},
+  {"id":4,"title":"What is a foreign key?","difficulty":"Easy","source":"Sample"},
+  {"id":5,"title":"Explain ACID properties.","difficulty":"Medium","source":"Sample"},
+  {"id":6,"title":"What is indexing?","difficulty":"Medium","source":"Sample"},
+  {"id":7,"title":"What is a transaction?","difficulty":"Easy","source":"Sample"},
+  {"id":8,"title":"Explain SQL vs NoSQL databases.","difficulty":"Medium","source":"Sample"},
+  {"id":9,"title":"What is a view in SQL?","difficulty":"Medium","source":"Sample"},
+  {"id":10,"title":"What is a join? Name its types.","difficulty":"Medium","source":"Sample"},
+  {"id":11,"title":"What is denormalization?","difficulty":"Medium","source":"Sample"},
+  {"id":12,"title":"What is a stored procedure?","difficulty":"Medium","source":"Sample"},
+  {"id":13,"title":"Explain the concept of triggers in DBMS.","difficulty":"Medium","source":"Sample"},
+  {"id":14,"title":"What is a schema?","difficulty":"Easy","source":"Sample"},
+  {"id":15,"title":"What is a cursor in SQL?","difficulty":"Medium","source":"Sample"},
+  {"id":16,"title":"What is a deadlock in DBMS?","difficulty":"Medium","source":"Sample"},
+  {"id":17,"title":"What is data redundancy?","difficulty":"Easy","source":"Sample"},
+  {"id":18,"title":"What is a candidate key?","difficulty":"Easy","source":"Sample"},
+  {"id":19,"title":"What is a composite key?","difficulty":"Medium","source":"Sample"},
+  {"id":20,"title":"What is a unique key?","difficulty":"Easy","source":"Sample"},
+  {"id":21,"title":"Explain the difference between clustered and non-clustered index.","difficulty":"Medium","source":"Sample"}
+] 

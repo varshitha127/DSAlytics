@@ -1,0 +1,23 @@
+[
+  {"id":1,"title":"What is the JVM?","difficulty":"Easy","source":"Sample"},
+  {"id":2,"title":"Explain the difference between JDK, JRE, and JVM.","difficulty":"Easy","source":"Sample"},
+  {"id":3,"title":"What are access modifiers in Java?","difficulty":"Easy","source":"Sample"},
+  {"id":4,"title":"What is inheritance in Java?","difficulty":"Easy","source":"Sample"},
+  {"id":5,"title":"Explain the concept of polymorphism.","difficulty":"Easy","source":"Sample"},
+  {"id":6,"title":"What is encapsulation?","difficulty":"Easy","source":"Sample"},
+  {"id":7,"title":"What is abstraction in Java?","difficulty":"Easy","source":"Sample"},
+  {"id":8,"title":"What is the difference between an interface and an abstract class?","difficulty":"Medium","source":"Sample"},
+  {"id":9,"title":"What is method overloading and overriding?","difficulty":"Medium","source":"Sample"},
+  {"id":10,"title":"What is a constructor in Java?","difficulty":"Easy","source":"Sample"},
+  {"id":11,"title":"What is the 'final' keyword in Java?","difficulty":"Medium","source":"Sample"},
+  {"id":12,"title":"What is a static variable and method?","difficulty":"Easy","source":"Sample"},
+  {"id":13,"title":"What is the difference between '=='' and 'equals()' in Java?","difficulty":"Medium","source":"Sample"},
+  {"id":14,"title":"What is exception handling in Java?","difficulty":"Medium","source":"Sample"},
+  {"id":15,"title":"What is a checked and unchecked exception?","difficulty":"Medium","source":"Sample"},
+  {"id":16,"title":"What is a package in Java?","difficulty":"Easy","source":"Sample"},
+  {"id":17,"title":"What is the use of 'super' keyword?","difficulty":"Easy","source":"Sample"},
+  {"id":18,"title":"What is multithreading in Java?","difficulty":"Medium","source":"Sample"},
+  {"id":19,"title":"What is synchronization?","difficulty":"Medium","source":"Sample"},
+  {"id":20,"title":"What is garbage collection in Java?","difficulty":"Medium","source":"Sample"},
+  {"id":21,"title":"What is the difference between ArrayList and LinkedList?","difficulty":"Medium","source":"Sample"}
+] 

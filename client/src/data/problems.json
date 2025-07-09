@@ -1,0 +1,92 @@
+{
+  "problems": [
+    {
+      "id": 1,
+      "title": "Binary Search Implementation",
+      "category": "dsa",
+      "difficulty": "easy",
+      "status": "solved",
+      "type": "practical",
+      "acceptance": "85%",
+      "description": "Implement binary search algorithm and analyze its time complexity.",
+      "tags": ["searching", "arrays", "binary-search"]
+    },
+    {
+      "id": 2,
+      "title": "Database Normalization",
+      "category": "dbms",
+      "difficulty": "medium",
+      "status": "unsolved",
+      "type": "theoretical",
+      "acceptance": "65%",
+      "description": "Explain the process of database normalization and its different forms.",
+      "tags": ["normalization", "database-design", "theory"]
+    },
+    {
+      "id": 3,
+      "title": "TCP/IP Protocol Stack",
+      "category": "cn",
+      "difficulty": "hard",
+      "status": "attempted",
+      "type": "theoretical",
+      "acceptance": "45%",
+      "description": "Explain the TCP/IP protocol stack and its layers in detail.",
+      "tags": ["networking", "protocols", "tcp-ip"]
+    },
+    {
+      "id": 4,
+      "title": "Process Scheduling Algorithms",
+      "category": "os",
+      "difficulty": "medium",
+      "status": "unsolved",
+      "type": "theoretical",
+      "acceptance": "70%",
+      "description": "Compare different process scheduling algorithms and their use cases.",
+      "tags": ["operating-systems", "scheduling", "algorithms"]
+    },
+    {
+      "id": 5,
+      "title": "Java Collections Framework",
+      "category": "java",
+      "difficulty": "medium",
+      "status": "solved",
+      "type": "practical",
+      "acceptance": "75%",
+      "description": "Implement a custom collection using Java Collections Framework.",
+      "tags": ["java", "collections", "data-structures"]
+    },
+    {
+      "id": 6,
+      "title": "Python Decorators",
+      "category": "python",
+      "difficulty": "medium",
+      "status": "unsolved",
+      "type": "practical",
+      "acceptance": "60%",
+      "description": "Create and implement custom decorators in Python.",
+      "tags": ["python", "decorators", "advanced"]
+    },
+    {
+      "id": 7,
+      "title": "React Component Lifecycle",
+      "category": "web",
+      "difficulty": "easy",
+      "status": "solved",
+      "type": "practical",
+      "acceptance": "80%",
+      "description": "Implement a React component demonstrating different lifecycle methods.",
+      "tags": ["react", "web-development", "frontend"]
+    },
+    {
+      "id": 8,
+      "title": "Design Patterns in OOP",
+      "category": "oops",
+      "difficulty": "hard",
+      "status": "attempted",
+      "type": "theoretical",
+      "acceptance": "55%",
+      "description": "Implement and explain different design patterns in object-oriented programming.",
+      "tags": ["oop", "design-patterns", "software-design"]
+    }
+  ]
+} 

@@ -1,0 +1,247 @@
+{
+  "theoretical": {
+    "properties": {
+      "id": "string",
+      "type": "theoretical",
+      "questionType": "string",
+      "question": "string",
+      "options": ["string"],
+      "correctAnswer": "string",
+      "explanation": "string",
+      "subject": "string",
+      "difficulty": "string",
+      "category": "string",
+      "tags": ["string"]
+    },
+    "required": ["id", "type", "questionType", "question", "correctAnswer", "subject", "difficulty", "category"],
+    "questionTypes": ["multiple-choice", "direct-answer", "true-false", "code-explanation"],
+    "subjects": {
+      "DSA": {
+        "categories": [
+          "Arrays and Strings",
+          "Linked Lists",
+          "Stacks and Queues",
+          "Trees and Graphs",
+          "Dynamic Programming",
+          "Sorting and Searching",
+          "Time Complexity",
+          "Space Complexity",
+          "Data Structures Implementation",
+          "Algorithm Design"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      },
+      "Computer Networks": {
+        "categories": [
+          "Network Basics",
+          "OSI Model",
+          "TCP/IP Protocol",
+          "Network Security",
+          "Routing Protocols",
+          "Wireless Networks",
+          "Network Devices",
+          "Network Topology",
+          "IP Addressing",
+          "DNS and DHCP"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      },
+      "Database Management": {
+        "categories": [
+          "Database Design",
+          "Normalization",
+          "SQL Queries",
+          "Transactions",
+          "Indexing",
+          "Database Security",
+          "Data Modeling",
+          "ACID Properties",
+          "Database Architecture",
+          "Query Optimization"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      },
+      "Operating Systems": {
+        "categories": [
+          "Process Management",
+          "Memory Management",
+          "File Systems",
+          "CPU Scheduling",
+          "Deadlocks",
+          "Virtual Memory",
+          "Threading",
+          "I/O Management",
+          "OS Architecture",
+          "System Calls"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      },
+      "Object Oriented Programming": {
+        "categories": [
+          "Classes and Objects",
+          "Inheritance",
+          "Polymorphism",
+          "Encapsulation",
+          "Abstraction",
+          "Design Patterns",
+          "SOLID Principles",
+          "Interfaces",
+          "Exception Handling",
+          "Memory Management"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      },
+      "System Design": {
+        "categories": [
+          "System Architecture",
+          "Scalability",
+          "Load Balancing",
+          "Caching",
+          "Database Design",
+          "API Design",
+          "Security",
+          "Performance Optimization",
+          "Microservices",
+          "Distributed Systems"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      },
+      "Java": {
+        "categories": [
+          "Core Java",
+          "Collections Framework",
+          "Multithreading",
+          "Exception Handling",
+          "Java 8 Features",
+          "Spring Framework",
+          "Hibernate",
+          "JUnit Testing",
+          "Memory Management",
+          "Design Patterns in Java"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      },
+      "Python": {
+        "categories": [
+          "Python Basics",
+          "Data Structures",
+          "Object-Oriented Python",
+          "File Handling",
+          "Exception Handling",
+          "Python Libraries",
+          "Web Development",
+          "Data Science",
+          "Testing",
+          "Python Best Practices"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      },
+      "Web Development": {
+        "categories": [
+          "HTML/CSS",
+          "JavaScript",
+          "React",
+          "Node.js",
+          "REST APIs",
+          "Web Security",
+          "Browser Storage",
+          "Web Performance",
+          "Progressive Web Apps",
+          "Web Accessibility"
+        ],
+        "difficulty": ["easy", "medium", "hard"]
+      }
+    },
+    "examples": {
+      "multiple-choice": {
+        "id": "th_001",
+        "type": "theoretical",
+        "questionType": "multiple-choice",
+        "question": "What is the time complexity of binary search?",
+        "options": [
+          "O(1)",
+          "O(log n)",
+          "O(n)",
+          "O(n log n)"
+        ],
+        "correctAnswer": "O(log n)",
+        "explanation": "Binary search divides the search interval in half each time, leading to logarithmic time complexity.",
+        "subject": "DSA",
+        "difficulty": "easy",
+        "category": "Time Complexity",
+        "tags": ["searching", "binary-search", "complexity"]
+      },
+      "direct-answer": {
+        "id": "th_002",
+        "type": "theoretical",
+        "questionType": "direct-answer",
+        "question": "What is an array? Explain its key characteristics.",
+        "correctAnswer": "An array is a linear data structure that stores elements of the same type in contiguous memory locations. Key characteristics include: 1) Fixed size, 2) Random access using indices, 3) Contiguous memory allocation, 4) Homogeneous elements.",
+        "explanation": "Arrays are fundamental data structures that provide efficient random access but have fixed size. They are stored in contiguous memory locations, allowing for O(1) access time using indices. However, insertion and deletion operations can be costly as they may require shifting elements.",
+        "subject": "DSA",
+        "difficulty": "easy",
+        "category": "Arrays and Strings",
+        "tags": ["arrays", "data-structures", "memory-allocation"]
+      }
+    }
+  },
+  "practical": {
+    "properties": {
+      "id": "string",
+      "type": "practical",
+      "question": "string",
+      "problemStatement": "string",
+      "inputFormat": "string",
+      "outputFormat": "string",
+      "constraints": "string",
+      "sampleInput": "string",
+      "sampleOutput": "string",
+      "solution": "string",
+      "testCases": [
+        {
+          "input": "string",
+          "output": "string",
+          "explanation": "string"
+        }
+      ],
+      "subject": "string",
+      "difficulty": "string",
+      "category": "string",
+      "tags": ["string"],
+      "language": "string",
+      "hints": ["string"],
+      "approach": "string"
+    },
+    "required": ["id", "type", "question", "problemStatement", "inputFormat", "outputFormat", "constraints", "subject", "difficulty", "category", "language"],
+    "example": {
+      "id": "pr_001",
+      "type": "practical",
+      "question": "Implement a function to find the longest palindromic substring",
+      "problemStatement": "Given a string s, return the longest palindromic substring in s.",
+      "inputFormat": "A single string s containing only lowercase English letters",
+      "outputFormat": "Return the longest palindromic substring",
+      "constraints": "1 <= s.length <= 1000",
+      "sampleInput": "babad",
+      "sampleOutput": "bab",
+      "solution": "function longestPalindrome(s) { ... }",
+      "testCases": [
+        {
+          "input": "babad",
+          "output": "bab",
+          "explanation": "bab is the longest palindromic substring"
+        }
+      ],
+      "subject": "DSA",
+      "difficulty": "medium",
+      "category": "String Manipulation",
+      "tags": ["palindrome", "dynamic-programming", "string"],
+      "language": "javascript",
+      "hints": [
+        "Consider using dynamic programming",
+        "Think about expanding around center",
+        "Handle even and odd length palindromes separately"
+      ],
+      "approach": "We can solve this using dynamic programming or by expanding around center. The dynamic programming approach uses a 2D array to store whether substrings are palindromes, while the expanding approach checks each possible center of a palindrome."
+    }
+  }
+} 

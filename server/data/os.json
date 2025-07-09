@@ -1,0 +1,23 @@
+[
+  {"id":1,"title":"What is a process?","difficulty":"Easy","source":"Sample"},
+  {"id":2,"title":"Explain the concept of a thread.","difficulty":"Easy","source":"Sample"},
+  {"id":3,"title":"What is deadlock?","difficulty":"Medium","source":"Sample"},
+  {"id":4,"title":"What is virtual memory?","difficulty":"Medium","source":"Sample"},
+  {"id":5,"title":"Explain paging and segmentation.","difficulty":"Medium","source":"Sample"},
+  {"id":6,"title":"What is a semaphore?","difficulty":"Medium","source":"Sample"},
+  {"id":7,"title":"What is context switching?","difficulty":"Medium","source":"Sample"},
+  {"id":8,"title":"Explain the difference between user mode and kernel mode.","difficulty":"Easy","source":"Sample"},
+  {"id":9,"title":"What is a file system?","difficulty":"Easy","source":"Sample"},
+  {"id":10,"title":"What is a system call?","difficulty":"Easy","source":"Sample"},
+  {"id":11,"title":"Explain the concept of multitasking.","difficulty":"Easy","source":"Sample"},
+  {"id":12,"title":"What is demand paging?","difficulty":"Medium","source":"Sample"},
+  {"id":13,"title":"What is thrashing?","difficulty":"Medium","source":"Sample"},
+  {"id":14,"title":"Explain the difference between process and thread.","difficulty":"Easy","source":"Sample"},
+  {"id":15,"title":"What is a shell?","difficulty":"Easy","source":"Sample"},
+  {"id":16,"title":"What is a real-time operating system?","difficulty":"Medium","source":"Sample"},
+  {"id":17,"title":"Explain the concept of scheduling algorithms.","difficulty":"Medium","source":"Sample"},
+  {"id":18,"title":"What is a race condition?","difficulty":"Medium","source":"Sample"},
+  {"id":19,"title":"What is inter-process communication (IPC)?","difficulty":"Medium","source":"Sample"},
+  {"id":20,"title":"What is a bootloader?","difficulty":"Easy","source":"Sample"},
+  {"id":21,"title":"Explain the difference between cooperative and preemptive multitasking.","difficulty":"Medium","source":"Sample"}
+] 

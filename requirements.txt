@@ -1,0 +1,4 @@
+# This project is built with Node.js (MERN stack).
+# All dependencies are managed via package.json files in the root, client/, and server/ directories.
+# No Python dependencies are required.
+# If you add Python services in the future, list their dependencies here. 
