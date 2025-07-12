@@ -30,6 +30,13 @@ A modern platform to practice, track, and master Data Structures & Algorithms (D
 
 ---
 
+## Demo Screenshots
+
+<img width="1908" height="948" alt="Screenshot 2025-07-12 163122" src="https://github.com/user-attachments/assets/f9b54e8b-32e7-4d00-be66-a51d8a09731f" />
+<img width="1912" height="875" alt="Screenshot 2025-07-12 163154" src="https://github.com/user-attachments/assets/90adbbc3-839b-42ab-8400-0bc8ea62d1fc" />
+<img width="1908" height="870" alt="Screenshot 2025-07-12 163244" src="https://github.com/user-attachments/assets/d1f86f57-eb7f-41dc-8c70-af165cd81ab1" />
+<img width="1894" height="869" alt="Screenshot 2025-07-12 163306" src="https://github.com/user-attachments/assets/3db49682-e045-47b8-8133-c9a5e7d8acd0" />
+
 ## 🛠️ Tech Stack
 
 ### Frontend
